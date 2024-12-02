@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<components>
+    <component type="CPU">
+        <name>Central Processing Unit (CPU)</name>
+        <description>The brain of the computer</description>
+        <use>Processing data, executing instructions</use>
+    </component>
+    <component type="RAM">
+        <name>Random Access Memory (RAM)</name>
+        <description>Temporary memory storage</description>
+        <use>Running applications, multitasking</use>
+    </component>
+    <component type="GPU">
+        <name>Graphics Processing Unit (GPU)</name>
+        <description>Handles rendering of images and videos</description>
+        <use>Gaming, video editing, AI processing</use>
+    </component>
+    <component type="HDD">
+        <name>Hard Disk Drive (HDD)</name>
+        <description>Mechanical data storage</description>
+        <use>Data storage, backup</use>
+    </component>
+    <component type="SSD">
+        <name>Solid State Drive (SSD)</name>
+        <description>Faster, more reliable storage</description>
+        <use>Operating system storage, application loading</use>
+    </component>
+    <component type="Motherboard">
+        <name>Motherboard</name>
+        <description>Main circuit board connecting components</description>
+        <use>Interconnecting components, providing power</use>
+    </component>
+</components>
