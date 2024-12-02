@@ -83,3 +83,51 @@ a:hover {
         margin: 10px 0;
     }
 }
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 60%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: black;
+    color: white;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    gap: 1cm;
+    flex-wrap: wrap;
+}
+
+.images img {
+    width: 150px; 
+    height: 150px;
+    object-fit: cover;
+    display: block;
+}
+
+input {
+    background-color: blue;
+}
+button {
+    background-color: orange;
+    margin-top: 1cm;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+}
+ol[type="A"] {
+    font-weight: bold;
+}
