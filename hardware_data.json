@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Central Processing Unit (CPU)",
+        "description": "The brain of the computer",
+        "usage": "Processing data, executing instructions"
+    },
+    {
+        "name": "Random Access Memory (RAM)",
+        "description": "Temporary memory storage",
+        "usage": "Running applications, multitasking"
+    },
+    {
+        "name": "Graphics Processing Unit (GPU)",
+        "description": "Handles rendering of images and videos",
+        "usage": "Gaming, video editing, AI processing"
+    },
+    {
+        "name": "Hard Disk Drive (HDD)",
+        "description": "Mechanical data storage",
+        "usage": "Data storage, backup"
+    },
+    {
+        "name": "Solid State Drive (SSD)",
+        "description": "Faster, more reliable storage",
+        "usage": "Operating system storage, application loading"
+    },
+    {
+        "name": "Motherboard",
+        "description": "Main circuit board connecting components",
+        "usage": "Interconnecting components, providing power"
+    }
+]
